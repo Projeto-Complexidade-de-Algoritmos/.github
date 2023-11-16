@@ -1,5 +1,5 @@
-# Projeto final Computabilidade e Complexidade de Algoritmos
-
+# Projeto final da disciplina Computabilidade e Complexidade de Algoritmos
+Centro Universitário do Distrito Federal
 
 
 Definição da equipe e do tema:
